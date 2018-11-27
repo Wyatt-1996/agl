@@ -148,24 +148,25 @@ html{
   margin: 30px;
 }
 
-.post-pic{
+.postPic{
   width: 100%;
   margin-bottom: 15px;
   border-radius: 9px;
   border: 1px solid #333;
 }
 
-.post-title{
+.postTitle{
   margin: -120px 0px 15px 30px;
   color: white;
   font-family: 'Poppins', sans-serif;
   font-weight: bolder;
 }
 
-.post-cta{
+.postCTA{
   margin: -90px 0px 15px 30px;
   font-family: 'Poppins', sans-serif;
   font-weight: bolder;
+  overflow: hidden;
 }
 
 
